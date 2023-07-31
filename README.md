@@ -1,7 +1,7 @@
 <img
 align="right"
 style="pointer-events:none;"
-src="images/MicroMoveLab.jpg" width=40%
+src="MicroMoveLab.JPG" width=40%
 />
 - 👋 Hi, I’m @MicroMoveLabiray
 - 👀 I’m interested in ...
